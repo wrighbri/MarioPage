@@ -1,0 +1,13 @@
+body{
+    margin-left: 10%;
+    margin-right: 10%
+}
+.topHeader{
+    margin-left: 25%;
+    font-size: 26px;
+}
+.topHeader h1{
+    margin: 0%;
+    display:inline-block;
+    
+}
