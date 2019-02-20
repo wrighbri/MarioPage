@@ -8,6 +8,32 @@ body{
 }
 .topHeader h1{
     margin: 0%;
-    display:inline-block;
+    display:inline-block;  
+}
+.topheader img  {
+    width: 100px;
+    height: auto;
+}
+nav{
+    border: outset red;
     
+}
+nav ul{
+    padding: 0px;
+    margin-left: 25%;
+}
+nav li{
+    display: inline-block;
+    padding-right: 20px;
+    font-size: 20px;
+}
+nav, a, u {
+    text-decoration: none;
+}
+.sectionHeader{
+    font-size: 20px;
+    color: rgb(184, 37, 37);
+    text-decoration: underline;
+    text-shadow: 1px  1px black;
+    font-family: "Ropa Sans";
 }
